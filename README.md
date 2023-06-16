@@ -1,5 +1,5 @@
 # Classwork
 
-theme: jekyll-theme-minimal
-logo: https://marcos-diazg.github.io/BIMM143_SP23/assets/img/logo.png
-title: BIMM143 Bioinformatics Lab
+Data exploration and visualization in R 
+The exploratory data analysis mindset. Data visualization best practices. Simple base graphics (including scatterplots, histograms, bar graphs, dot chats, boxplots, and heatmaps). Building more complex charts with ggplot.
+
